@@ -1,1 +1,1 @@
-This is an orange not an apple.
+This is an orange.
